@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Christopher Liscio. All rights reserved.
 //
 
-import XCTest
+/*import XCTest
 import SMUGMath
 
 class SMUGMathTests: XCTestCase {
@@ -67,4 +67,4 @@ class SMUGMathTests: XCTestCase {
             let realSpectra = abs(result)[1...result.count/2]
         }
     }
-}
+}*/
