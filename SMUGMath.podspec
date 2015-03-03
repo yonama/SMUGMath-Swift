@@ -52,7 +52,7 @@ Pod::Spec.new do |s|
   #  Specify a social_media_url where others can refer to, for example a twitter
   #  profile URL.
   #
-  
+
   s.author             = { "黒澤 預生" => "yonamachan3@gmail.com" }
   # Or just: s.author    = "黒澤 預生"
   # s.authors            = { "黒澤 預生" => "yonamachan3@gmail.com" }
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/SMUGMath.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/yonama/SMUGMath-Swift.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
